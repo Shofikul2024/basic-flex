@@ -3,7 +3,26 @@
   
 background-color:blanchedalmond;
 display: flex;
+gap:30px;
+/* justify-content: space-around; */
+/* justify-content:  space-evenly ; */
+/* justify-content:  space-between ; */
+justify-content:  space-between ;
+height: 350px ;
+/* align-items: stretch; */
+/* align-items: flex-start; */
+/* align-items:center; */
+align-items:center;
+/* flex-direction: column; */
+/* flex-direction: row; */
+/* flex-direction: row-reverse; */
+flex-direction: row;
+  flex-wrap: wrap;
+
+
+
 }
+
 
 .child{
 
